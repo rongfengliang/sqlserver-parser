@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="811842a5-8a44-43a5-9bd6-da86d127c7c5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/pacaket.go" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.14.5/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="fnedluwz" />
+  </component>
+  <component name="ProjectId" id="1i09akfUOcOVK5GguTO958dEALE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TestNewTdsBuffer in github.com/rongfengliang/sqlserver-parser/mytest" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="sql-server-parser" />
+      <working_directory value="$PROJECT_DIR$/mytest" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/rongfengliang/sqlserver-parser/mytest" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestNewTdsBuffer\E$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestNewTdsBuffer in github.com/rongfengliang/sqlserver-parser/mytest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="630" y="350" key="#Go_Modules" timestamp="1601034287816">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state x="630" y="350" key="#Go_Modules/0.23.1680.973@0.23.1680.973" timestamp="1601034287816" />
+    <state width="1638" height="324" key="GridCell.Tab.0.bottom" timestamp="1601034770451">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state width="1638" height="324" key="GridCell.Tab.0.bottom/0.23.1680.973@0.23.1680.973" timestamp="1601034770451" />
+    <state width="1638" height="324" key="GridCell.Tab.0.center" timestamp="1601034770450">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state width="1638" height="324" key="GridCell.Tab.0.center/0.23.1680.973@0.23.1680.973" timestamp="1601034770450" />
+    <state width="1638" height="324" key="GridCell.Tab.0.left" timestamp="1601034770450">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state width="1638" height="324" key="GridCell.Tab.0.left/0.23.1680.973@0.23.1680.973" timestamp="1601034770450" />
+    <state width="1638" height="324" key="GridCell.Tab.0.right" timestamp="1601034770451">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state width="1638" height="324" key="GridCell.Tab.0.right/0.23.1680.973@0.23.1680.973" timestamp="1601034770451" />
+    <state width="1638" height="324" key="GridCell.Tab.1.bottom" timestamp="1601034770452">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state width="1638" height="324" key="GridCell.Tab.1.bottom/0.23.1680.973@0.23.1680.973" timestamp="1601034770452" />
+    <state width="1638" height="324" key="GridCell.Tab.1.center" timestamp="1601034770452">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state width="1638" height="324" key="GridCell.Tab.1.center/0.23.1680.973@0.23.1680.973" timestamp="1601034770452" />
+    <state width="1638" height="324" key="GridCell.Tab.1.left" timestamp="1601034770451">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state width="1638" height="324" key="GridCell.Tab.1.left/0.23.1680.973@0.23.1680.973" timestamp="1601034770451" />
+    <state width="1638" height="324" key="GridCell.Tab.1.right" timestamp="1601034770452">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state width="1638" height="324" key="GridCell.Tab.1.right/0.23.1680.973@0.23.1680.973" timestamp="1601034770452" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/mytest/tdsheader_test.go</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/pkg/packet/tdsbuffer.go</url>
+          <line>65</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/pkg/packet/tdsbuffer.go</url>
+          <line>69</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/pkg/packet/tdsbuffer.go</url>
+          <line>74</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/pkg/packet/tdsbuffer.go</url>
+          <line>54</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/mytest/tdsheader_test.go</url>
+          <line>9</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
